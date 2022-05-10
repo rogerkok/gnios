@@ -1,0 +1,116 @@
+body{
+  padding: 0;
+  margin: 0;
+  
+  /* Autor Frieden */
+  background-color: #f4f4f4 !important;
+}
+
+.logo img{
+  width: 100px;
+  height: 100px;
+  position: relative;
+}
+.navbar-toggler-icon
+{
+  background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='rgba%280, 0, 0, 1%29' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+  
+}
+.input-research{
+  position: relative;
+  bottom: 70px;
+  left: 110px;
+}
+.input-research input{
+  border-radius: 50px;
+}
+.links{
+  position: relative;
+ font-family: "helvetica";
+ margin-left: 500px;
+ bottom: 55px; 
+ font-size: 11px; 
+ font-weight: bolder;
+}
+
+
+/****========
+    Header ==========
+    ****/
+
+.menu{
+  position: relative;
+  bottom: 45px;
+  height: 80px;
+}
+.temperature{
+  background-color: #ff0066;
+  height: 80px;
+}
+.links-menu{
+  margin: 1px;
+}
+
+.btn-button{
+  color: #fff;
+  background-color: #333399;
+}
+
+.btn-button:hover{
+  color: #fff;
+  background-color: #ff0066;
+
+}
+
+
+/* Author Frieden KODJO*/
+
+	/* News Categories */
+.catlinks {
+ position: relative;
+ font-family: "helvetica";
+ font-size: 11px; 
+ font-weight: bolder;
+}
+
+.left {
+	float: left;
+}
+
+.right {
+	float: right;
+}
+
+.catlinksactive {
+  text-decoration: underline pink;
+}
+
+.catname {
+	color: #333399;
+}
+
+.biglinks {
+	font-size: 20px;
+	margin-left: 40px;
+	font-weight: bolder;
+}
+
+#biglinksection {
+	margin-top: 20px;
+	background-color: #fff;
+	padding: 40px;
+	
+}
+
+.image-news {
+	padding: 5px;
+}
+
+
+.text-news {
+	font-size: 6pt;
+}
+
+.footercopyright {
+	background-color: lightgrey;
+}
